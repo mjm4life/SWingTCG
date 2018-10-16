@@ -1,0 +1,4 @@
+CardImageURLs:
+/general/cardback.jpg	https://www.dropbox.com/s/dy6ajnwj1i8gn1e/cardback.jpg?raw=1	1783
+/general/spawned.jpg	https://www.dropbox.com/s/vfg9mivh0dsw5sq/spawned.jpg?raw=1	-41913
+/S1_STD/Antoine-s.jpg	https://www.dropbox.com/s/fegc0leu443w6xo/Antoine-s.jpg?raw=1	-21013
