@@ -1,0 +1,9 @@
+SWingTCG	10-15-18
+plugins/SWingTCG/plugininfo.txt	https://www.dropbox.com/s/6j5dvy56ipsofwu/plugininfo.txt?raw=1	353368
+plugins/SWingTCG/pluginpreferences.txt	https://www.dropbox.com/s/t97j99ffar9xboy/pluginpreferences.txt?raw=1	278657
+plugins/SWingTCG/recentdecks.txt	https://www.dropbox.com/s/qpmtflbph9wwvu7/recentdecks.txt?raw=1	4748
+plugins/SWingTCG/CardImageURLs1.txt	https://github.com/mjm4life/SWingTCG/blob/master/CardImageURLs1.txt?raw=true	24663
+plugins/SWingTCG/sets/carddata.txt	https://www.dropbox.com/s/wwfmwsvwndppbhe/carddata.txt?raw=1	167093
+CardImageURLs:
+CardImageURLs1.txt
+
